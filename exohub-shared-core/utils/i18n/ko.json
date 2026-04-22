@@ -1,0 +1,12 @@
+﻿{
+  "common": {
+    "welcome": "엑소허브에 오신 것을 환영합니다",
+    "login": "로그인",
+    "points": "포인트",
+    "community": "커뮤니티"
+  },
+  "social": {
+    "post_ad": "분양글 올리기",
+    "chat": "채팅하기"
+  }
+}

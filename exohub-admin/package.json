@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "exohub-admin",
   "version": "0.1.0",
   "private": true,
@@ -8,8 +8,22 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.99.2",
+    "axios": "^1.15.2",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^1.8.0",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-hook-form": "^7.73.1",
+    "tailwind-merge": "^3.5.0",
+    "zustand": "^5.0.12"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.10",
+    "tailwindcss": "^4.2.4"
   }
 }

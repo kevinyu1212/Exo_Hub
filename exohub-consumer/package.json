@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^5.99.2",
+    "@tanstack/react-query-devtools": "^5.99.2",
     "axios": "^1.15.2",
     "clsx": "^2.1.1",
     "crypto-js": "^4.2.0",
@@ -22,6 +23,7 @@
     "msw": "^2.13.4",
     "next": "latest",
     "next-seo": "^7.2.0",
+    "nprogress": "^0.2.0",
     "react": "latest",
     "react-dom": "latest",
     "react-dropzone": "^15.0.0",

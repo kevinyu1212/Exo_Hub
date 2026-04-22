@@ -21,6 +21,7 @@
     "lucide-react": "^1.8.0",
     "msw": "^2.13.4",
     "next": "latest",
+    "next-seo": "^7.2.0",
     "react": "latest",
     "react-dom": "latest",
     "react-dropzone": "^15.0.0",
@@ -32,6 +33,7 @@
     "react-toastify": "^11.1.0",
     "recharts": "^3.8.1",
     "tailwind-merge": "^3.5.0",
+    "zod": "^4.3.6",
     "zustand": "^5.0.12"
   },
   "devDependencies": {

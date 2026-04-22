@@ -1,0 +1,22 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-surface-paper text-zinc-900 transition-colors duration-300;
+  }
+  .dark body {
+    @apply bg-surface-dark text-zinc-100;
+  }
+}
+
+@layer components {
+  .exo-button {
+    @apply px-6 py-2 rounded-xl font-bold transition-all active:scale-95;
+    @apply bg-primary text-white hover:bg-primary-light shadow-soft hover:shadow-scale;
+  }
+  .exo-card {
+    @apply p-5 rounded-2xl bg-white dark:bg-zinc-800 border border-zinc-100 dark:border-zinc-700 shadow-soft;
+  }
+}
